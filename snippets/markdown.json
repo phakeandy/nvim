@@ -1,0 +1,9 @@
+{
+  "Math Inline": {
+    "prefix": "dm",
+    "body": [
+      "$${1}$"
+    ],
+    "description": "Insert inline math delimiters"
+  }
+}

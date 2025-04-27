@@ -4,4 +4,7 @@
 
 local map = vim.keymap.set
 
-vim.keymap.set('i', '<C-c>', '<Esc>')
+map('i', '<C-c>', '<Esc>')
+
+-- map('x', '<Up>', ':move-1<CR>gv=gv', { desc = 'Move selected lines up one line' })
+-- map('x', '<Down>', ':move+1<CR>gv=gv', { desc = 'Move selected lines down one line' })
