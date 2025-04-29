@@ -6,3 +6,6 @@ debug
 foo.*
 *.log
 data
+
+# Lua Language Server
+.luarc.json
