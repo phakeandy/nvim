@@ -1,6 +1,6 @@
 return {
   {
-    -- Lazy default, but I like markview.nvim more.
+    -- Lazy default, ~but I like markview.nvim more.~
     "MeanderingProgrammer/render-markdown.nvim",
     enabled = true,
     opts = function(_, opts)
