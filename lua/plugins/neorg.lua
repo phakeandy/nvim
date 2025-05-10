@@ -1,5 +1,6 @@
 return {
   "nvim-neorg/neorg",
+  enable = false,
   lazy = false,
   version = "*",
   config = function()
